@@ -1,1 +1,1 @@
-# ProjetoEbac_EstatisticaBasica
+# Projeto 3 - Estatística Básica
